@@ -1,2 +1,2 @@
-# check_exam_table_v
+# check_exam_table_v1
 รองรับเฉพาะ รายวิชาของแต่ละสาขา
